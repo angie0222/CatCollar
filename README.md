@@ -1,2 +1,1 @@
-# CatCollar
-Project for EE447. This project is a smart cat collar.
+# EE447-SmackCollar
